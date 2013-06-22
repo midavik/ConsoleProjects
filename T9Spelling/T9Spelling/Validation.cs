@@ -5,7 +5,7 @@ namespace T9Spelling
 {
     public class Validation
     {
-        // Allow lower characters a-z and space characters ' '
+        // Allow lower characters a-z and space characters ' ' Aloha
         public static bool ValidateMessage(string message)
         {
             //return Regex.IsMatch(message, @"^[a-z]*$");//, RegexOptions.ExplicitCapture);
